@@ -5,10 +5,10 @@ django-robokassa-payments
 .. image:: https://api.travis-ci.org/LPgenerator/django-robokassa.png?branch=master
     :alt: Build Status
     :target: https://travis-ci.org/LPgenerator/django-robokassa
-.. image:: https://pypip.in/v/django-robokassa-payments/badge.png
+.. image:: https://img.shields.io/pypi/v/django-robokassa-payments.svg
     :alt: Current version on PyPi
     :target: https://crate.io/packages/django-robokassa-payments/
-.. image:: https://pypip.in/d/django-robokassa-payments/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-robokassa-payments.svg
     :alt: Downloads from PyPi
     :target: https://crate.io/packages/django-robokassa-payments/
 
